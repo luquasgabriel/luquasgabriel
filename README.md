@@ -20,5 +20,8 @@
 
 <br>
 
-[![Lucas Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=luquasgabriel&bg_color=1b2735&title_color=F0C251&text_color=FFFFFF&icon_color=FFD700&border_color=252C36&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lucas Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=luquasgabriel&bg_color=1b2735&title_color=F0C251&text_color=FFFFFF&icon_color=FFD700&border_color=252C36&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://i.pinimg.com/originals/74/34/57/743457785e7543fd62c51e59dcf853d9.gif" width="385"> 
+
 
