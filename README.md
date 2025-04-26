@@ -21,6 +21,6 @@
 <br>
 
 [![Lucas Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=luquasgabriel&card_width=430&bg_color=1b2735&title_color=F0C251&text_color=FFFFFF&icon_color=FFD700&border_color=252C36&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-<img align=right height="395" width="430" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRiM3B2YjN1dXB4M3E1MXZiaTJ6YnF1dDRmMXo5Yjc5cTRmandibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
+<img align=left height="395" width="415" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRiM3B2YjN1dXB4M3E1MXZiaTJ6YnF1dDRmMXo5Yjc5cTRmandibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif">
 [![GitHub Streak](https://streak-stats.demolab.com?user=luquasgabriel&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=430&background=1B2735&sideNums=F0C251&currStreakNum=F0C251&sideLabels=FFFFFF&stroke=1B2735&dates=868686&currStreakLabel=FFFFFF&border=1B2735)](https://git.io/streak-stats)
 
